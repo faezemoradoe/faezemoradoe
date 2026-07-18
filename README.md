@@ -78,12 +78,6 @@
   </p>
 
 
-
-  <h2>⏱️ WakaTime Stats</h2>
-
-  <img height="350" src="https://wakatime.com/share/@faezemoradoe/2f1a6c75-2eae-4aab-bbbd-5c532aff9546.png" alt="WakaTime Weekly Stats" />
-  <img height="350" src="https://wakatime.com/share/@faezemoradoe/8ce6d27d-2ab1-4876-8aa8-683eba2cd02f.png" alt="WakaTime Language Stats" />
-
   <p>If you like my profile, please consider giving it a ⭐!</p>
 </div>
 <!--
